@@ -8,7 +8,7 @@ A full stack web application using the MERN Stack to create an e-commerce websit
 <img src = "./client/public/images/ScreenShot.png">
 
 ## Demo
-[Live Demo](https://lit-journey-61823.herokuapp.com/)
+[Live Demo](https://cranky-kare-b53816.netlify.app/signup)
 
 ## Contributors
 Github: [Tima Nlemvo](https://github.com/timanlemvo)
@@ -21,5 +21,6 @@ Email: [Tima Nlemvo](timanlemvo@gmail.com)
 
 
 “Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn.”
+
 
 -- Stephen Hawking

@@ -1,4 +1,5 @@
-{ "homepage": "https://github.com/timanlemvo/Redux-Store",
+{
+  "homepage": "https://github.com/timanlemvo/Redux-Store",
   "name": "mern-shopping",
   "version": "1.0.0",
   "description": "",
@@ -14,6 +15,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.1.0",
+    "netlify-cli": "^6.9.27"
   }
 }
